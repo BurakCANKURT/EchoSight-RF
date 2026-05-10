@@ -1,4 +1,4 @@
-# RF-Based Environmental Detection and Object Classification System 🚧 [IN PROGRESS]
+# EchoSight RF
 
 [![Status: In Progress](https://img.shields.io/badge/Status-In%20Progress-orange.svg)]()
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -6,7 +6,7 @@
 [![Hardware: ESP32](https://img.shields.io/badge/Hardware-ESP32-blue.svg)](https://www.espressif.com/en/products/socs/esp32)
 [![AI: PyTorch](https://img.shields.io/badge/AI-PyTorch-ee4c2c.svg)](https://pytorch.org/)
 
-An edge computing solution designed to provide real-time environmental awareness for visually impaired individuals using Radio Frequency (RF) signals and Machine Learning. **This project is prototyped and simulated interactively using Wokwi.**
+**EchoSight RF** is an advanced AI-powered environmental perception system designed for visually impaired individuals. It leverages Radio Frequency (RF) signals and Edge Computing to perform real-time object classification and spatial awareness. **This project is prototyped and simulated interactively using Wokwi.**
 
 ## 🚀 Project Overview
 
